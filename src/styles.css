@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    
+    background-image: url(https://m.economictimes.com/thumb/msid-82090423,width-1200,height-900,resizemode-4,imgsize-169788/bank-getty.jpg);
+    width: 100%;
+    height: 100%;
+}
